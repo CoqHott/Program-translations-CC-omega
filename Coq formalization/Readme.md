@@ -13,7 +13,7 @@ To compile the project, generate the Makefile using:
 
 And then run:
 
-    `make`
+    make
 
 (compile with Coq 8.5).
 
