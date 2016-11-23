@@ -1,0 +1,32 @@
+-R . TranslationDemo
+
+-I src/
+
+theories/BoolProd.v
+
+src/mTranslateFun.ml
+src/mTranslateFun.mli
+src/mTranslateFun.mllib
+src/mPluginFun.ml
+src/mPluginFun.mli
+src/g_modalFun.ml4
+
+TestFun.v
+
+src/mTranslateType.ml
+src/mTranslateType.mli
+src/mTranslateType.mllib
+src/mPluginType.ml
+src/mPluginType.mli
+src/g_modalType.ml4
+
+TestType.v
+
+src/mTranslateStream.ml
+src/mTranslateStream.mli
+src/mTranslateStream.mllib
+src/mPluginStream.ml
+src/mPluginStream.mli
+src/g_modalStream.ml4
+
+TestStream.v
